@@ -1,0 +1,2 @@
+# HibernateEmbeddable
+ HQL Queries
